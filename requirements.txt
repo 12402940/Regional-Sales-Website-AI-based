@@ -1,0 +1,12 @@
+# --- Required Python Libraries for Regional Sales Website (AI-Based) ---
+
+streamlit
+streamlit-lottie
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+requests
+Pillow
+joblib
