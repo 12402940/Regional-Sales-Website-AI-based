@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altair==5.5.0
 attrs==25.4.0
 blinker==1.9.0
@@ -48,3 +49,17 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
+=======
+# --- Required Python Libraries for Regional Sales Website (AI-Based) ---
+
+streamlit
+streamlit-lottie
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+requests
+Pillow
+joblib
+>>>>>>> ba9f1f9edee98c0a5aea6e5c664bea8e4d0859bc
