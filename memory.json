@@ -1,0 +1,84 @@
+{
+  "insights": [
+    {
+      "title": "Recommendation",
+      "content": "Focus cluster 2",
+      "timestamp": "2025-10-30T17:28:15.562981Z"
+    },
+    {
+      "title": "Prediction",
+      "content": "predict revenue if ads=5000' -> 13940.83",
+      "timestamp": "2025-10-16T09:05:25.387235Z"
+    },
+    {
+      "title": "Summary",
+      "content": "Provided dataframe summary",
+      "timestamp": "2025-10-16T09:04:55.157147Z"
+    },
+    {
+      "title": "Top model features",
+      "content": "RevenueGoal (-1.283), Revenue (1.050), Pipeline (0.985), Latitude (0.348), Longitude (0.033)",
+      "timestamp": "2025-10-16T09:04:42.434835Z"
+    },
+    {
+      "title": "Prediction",
+      "content": "predict revenue if ads=5000 -> 12426.65",
+      "timestamp": "2025-10-16T08:41:48.900040Z"
+    },
+    {
+      "title": "Summary",
+      "content": "Provided dataframe summary",
+      "timestamp": "2025-10-16T08:41:28.350926Z"
+    },
+    {
+      "title": "Top model features",
+      "content": "RevenueGoal (-1.283), Revenue (1.050), Pipeline (0.985), Latitude (0.348), Longitude (0.033)",
+      "timestamp": "2025-10-16T08:41:09.192904Z"
+    },
+    {
+      "title": "Recommendation",
+      "content": "Focus cluster 2",
+      "timestamp": "2025-10-14T16:21:57.327454Z"
+    },
+    {
+      "title": "Prediction",
+      "content": "predict revenue if ads=1000 discount=5 -> 12426.65",
+      "timestamp": "2025-10-14T16:21:38.243578Z"
+    },
+    {
+      "title": "Top model features",
+      "content": "RevenueGoal (-1.283), Revenue (1.050), Pipeline (0.985), Latitude (0.348), Longitude (0.033)",
+      "timestamp": "2025-10-14T16:21:17.381981Z"
+    },
+    {
+      "title": "Summary",
+      "content": "Provided dataframe summary",
+      "timestamp": "2025-10-12T07:44:39.969021Z"
+    },
+    {
+      "title": "Total query",
+      "content": "Total Year by Stage",
+      "timestamp": "2025-10-09T10:21:41.283539Z"
+    },
+    {
+      "title": "Total query",
+      "content": "Total Year by Product",
+      "timestamp": "2025-10-09T10:21:41.116597Z"
+    },
+    {
+      "title": "Total query",
+      "content": "Total Year by Region",
+      "timestamp": "2025-10-09T10:21:40.948457Z"
+    },
+    {
+      "title": "Summary",
+      "content": "Provided dataframe summary",
+      "timestamp": "2025-10-09T10:21:27.927983Z"
+    },
+    {
+      "title": "Top model features",
+      "content": "RevenueGoal (-1.283), Revenue (1.050), Pipeline (0.985), Latitude (0.348), Longitude (0.033)",
+      "timestamp": "2025-10-09T10:21:08.326017Z"
+    }
+  ]
+}
